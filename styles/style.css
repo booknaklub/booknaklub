@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Pridi:wght@300&display=swap');
+h1 {
+    margin: 0 ;
+    font-family: 'Pridi', serif;
+    font-size: 60px;
+    padding: 20px 0;
+    color: #7DF274;
+    text-align: center;
+    text-shadow: 3px 3px 1px yellowgreen;
+}
+html {
+    background-color: #B9F1FA;
+}
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #FBFEB3;
+    padding: 0 20px 20px 20px;
+    border: 5px solid skyblue;
+}
+img {
+    display: block;
+    margin: 0 auto;
+}
+ul,li,p {
+    font-family: 'Pridi', serif;
+    color: black;
+}
